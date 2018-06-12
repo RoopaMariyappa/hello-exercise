@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+
+.heading {
+    color: blue;
+    
+}
+
+.hello {
+    
+    color: yellow;
+    
+}
+
+.heading.hello {
+    color: green;
+}
